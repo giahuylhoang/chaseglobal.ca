@@ -1,0 +1,1514 @@
+[
+  {
+    "sourceUrl": "",
+    "originalPath": "wp-content/uploads/2025/07/cert1.png",
+    "sourceRef": "wp-content/uploads/2025/07/cert1.png",
+    "newPath": "/assets/academy/images/certifications/cert1.png",
+    "section": "images/certifications",
+    "type": "image",
+    "notes": ""
+  },
+  {
+    "sourceUrl": "",
+    "originalPath": "wp-content/uploads/2025/07/cert2.png",
+    "sourceRef": "wp-content/uploads/2025/07/cert2.png",
+    "newPath": "/assets/academy/images/certifications/cert2.png",
+    "section": "images/certifications",
+    "type": "image",
+    "notes": ""
+  },
+  {
+    "sourceUrl": "",
+    "originalPath": "wp-content/uploads/2023/10/canada-34x34.jpg",
+    "sourceRef": "wp-content/uploads/2023/10/canada-34x34.jpg",
+    "newPath": "/assets/academy/images/countries/canada-34x34.jpg",
+    "section": "images/countries",
+    "type": "image",
+    "notes": ""
+  },
+  {
+    "sourceUrl": "",
+    "originalPath": "wp-content/uploads/2023/10/canada-e1753389170675.png",
+    "sourceRef": "wp-content/uploads/2023/10/canada-e1753389170675.png",
+    "newPath": "/assets/academy/images/countries/canada-e1753389170675.png",
+    "section": "images/countries",
+    "type": "image",
+    "notes": ""
+  },
+  {
+    "sourceUrl": "",
+    "originalPath": "wp-content/uploads/2023/11/canada.png",
+    "sourceRef": "wp-content/uploads/2023/11/canada.png",
+    "newPath": "/assets/academy/images/countries/canada.png",
+    "section": "images/countries",
+    "type": "image",
+    "notes": ""
+  },
+  {
+    "sourceUrl": "",
+    "originalPath": "wp-content/uploads/2023/11/flag-h1-2.png",
+    "sourceRef": "wp-content/uploads/2023/11/flag-h1-2.png",
+    "newPath": "/assets/academy/images/countries/flag-h1-2.png",
+    "section": "images/countries",
+    "type": "image",
+    "notes": ""
+  },
+  {
+    "sourceUrl": "",
+    "originalPath": "wp-content/uploads/2025/10/Flag_of_Australia_converted.svg-420x420.webp",
+    "sourceRef": "wp-content/uploads/2025/10/Flag_of_Australia_converted.svg-420x420.webp",
+    "newPath": "/assets/academy/images/countries/flag-of-australia-converted-svg-420x420.webp",
+    "section": "images/countries",
+    "type": "image",
+    "notes": ""
+  },
+  {
+    "sourceUrl": "",
+    "originalPath": "wp-content/uploads/2023/10/Flag_of_India.png",
+    "sourceRef": "wp-content/uploads/2023/10/Flag_of_India.png",
+    "newPath": "/assets/academy/images/countries/flag-of-india.png",
+    "section": "images/countries",
+    "type": "image",
+    "notes": ""
+  },
+  {
+    "sourceUrl": "",
+    "originalPath": "wp-content/uploads/2023/10/Flag_of_New_Zealand.svg.png",
+    "sourceRef": "wp-content/uploads/2023/10/Flag_of_New_Zealand.svg.png",
+    "newPath": "/assets/academy/images/countries/flag-of-new-zealand-svg.png",
+    "section": "images/countries",
+    "type": "image",
+    "notes": ""
+  },
+  {
+    "sourceUrl": "",
+    "originalPath": "wp-content/uploads/2025/10/Flag_of_the_Netherlands.svg-420x420.webp",
+    "sourceRef": "wp-content/uploads/2025/10/Flag_of_the_Netherlands.svg-420x420.webp",
+    "newPath": "/assets/academy/images/countries/flag-of-the-netherlands-svg-420x420.webp",
+    "section": "images/countries",
+    "type": "image",
+    "notes": ""
+  },
+  {
+    "sourceUrl": "",
+    "originalPath": "wp-content/uploads/2023/10/Flag_of_the_United_Arab_Emirates.svg.png",
+    "sourceRef": "wp-content/uploads/2023/10/Flag_of_the_United_Arab_Emirates.svg.png",
+    "newPath": "/assets/academy/images/countries/flag-of-the-united-arab-emirates-svg.png",
+    "section": "images/countries",
+    "type": "image",
+    "notes": ""
+  },
+  {
+    "sourceUrl": "",
+    "originalPath": "wp-content/uploads/2023/10/Flag_of_the_United_States.png",
+    "sourceRef": "wp-content/uploads/2023/10/Flag_of_the_United_States.png",
+    "newPath": "/assets/academy/images/countries/flag-of-the-united-states.png",
+    "section": "images/countries",
+    "type": "image",
+    "notes": ""
+  },
+  {
+    "sourceUrl": "",
+    "originalPath": "wp-content/uploads/2023/10/scholarships_in_canada-410x270.jpg",
+    "sourceRef": "wp-content/uploads/2023/10/scholarships_in_canada-410x270.jpg",
+    "newPath": "/assets/academy/images/countries/scholarships-in-canada-410x270.jpg",
+    "section": "images/countries",
+    "type": "image",
+    "notes": ""
+  },
+  {
+    "sourceUrl": "",
+    "originalPath": "wp-content/uploads/2023/10/usa-1-34x34.jpg",
+    "sourceRef": "wp-content/uploads/2023/10/usa-1-34x34.jpg",
+    "newPath": "/assets/academy/images/countries/usa-1-34x34.jpg",
+    "section": "images/countries",
+    "type": "image",
+    "notes": ""
+  },
+  {
+    "sourceUrl": "",
+    "originalPath": "wp-content/uploads/2025/07/USATC-150x150-1.png",
+    "sourceRef": "wp-content/uploads/2025/07/USATC-150x150-1.png",
+    "newPath": "/assets/academy/images/countries/usatc-150x150-1.png",
+    "section": "images/countries",
+    "type": "image",
+    "notes": ""
+  },
+  {
+    "sourceUrl": "",
+    "originalPath": "wp-content/uploads/2025/10/waving-flag-of-germany-3d-banner-vector-420x350.jpg",
+    "sourceRef": "wp-content/uploads/2025/10/waving-flag-of-germany-3d-banner-vector-420x350.jpg",
+    "newPath": "/assets/academy/images/countries/waving-flag-of-germany-3d-banner-vector-420x350.jpg",
+    "section": "images/countries",
+    "type": "image",
+    "notes": ""
+  },
+  {
+    "sourceUrl": "",
+    "originalPath": "wp-content/uploads/2023/11/bg-slide-home-1.jpg",
+    "sourceRef": "wp-content/uploads/2023/11/bg-slide-home-1.jpg",
+    "newPath": "/assets/academy/images/hero/bg-slide-home-1.jpg",
+    "section": "images/hero",
+    "type": "image",
+    "notes": ""
+  },
+  {
+    "sourceUrl": "",
+    "originalPath": "wp-content/uploads/2023/11/slide-img-h2-2.png",
+    "sourceRef": "wp-content/uploads/2023/11/slide-img-h2-2.png",
+    "newPath": "/assets/academy/images/hero/slide-img-h2-2.png",
+    "section": "images/hero",
+    "type": "image",
+    "notes": ""
+  },
+  {
+    "sourceUrl": "",
+    "originalPath": "wp-content/uploads/2023/11/slide-img-h2-3.png",
+    "sourceRef": "wp-content/uploads/2023/11/slide-img-h2-3.png",
+    "newPath": "/assets/academy/images/hero/slide-img-h2-3.png",
+    "section": "images/hero",
+    "type": "image",
+    "notes": ""
+  },
+  {
+    "sourceUrl": "",
+    "originalPath": "wp-content/uploads/2025/07/1.jpg",
+    "sourceRef": "wp-content/uploads/2025/07/1.jpg",
+    "newPath": "/assets/academy/images/misc/1.jpg",
+    "section": "images/misc",
+    "type": "image",
+    "notes": ""
+  },
+  {
+    "sourceUrl": "",
+    "originalPath": "wp-content/uploads/2025/07/2.jpg",
+    "sourceRef": "wp-content/uploads/2025/07/2.jpg",
+    "newPath": "/assets/academy/images/misc/2.jpg",
+    "section": "images/misc",
+    "type": "image",
+    "notes": ""
+  },
+  {
+    "sourceUrl": "",
+    "originalPath": "wp-content/uploads/2025/07/2.png",
+    "sourceRef": "wp-content/uploads/2025/07/2.png",
+    "newPath": "/assets/academy/images/misc/2.png",
+    "section": "images/misc",
+    "type": "image",
+    "notes": ""
+  },
+  {
+    "sourceUrl": "",
+    "originalPath": "wp-content/uploads/2025/07/3.jpg",
+    "sourceRef": "wp-content/uploads/2025/07/3.jpg",
+    "newPath": "/assets/academy/images/misc/3.jpg",
+    "section": "images/misc",
+    "type": "image",
+    "notes": ""
+  },
+  {
+    "sourceUrl": "",
+    "originalPath": "wp-content/uploads/2025/07/3.png",
+    "sourceRef": "wp-content/uploads/2025/07/3.png",
+    "newPath": "/assets/academy/images/misc/3.png",
+    "section": "images/misc",
+    "type": "image",
+    "notes": ""
+  },
+  {
+    "sourceUrl": "",
+    "originalPath": "wp-content/uploads/2025/07/4.jpg",
+    "sourceRef": "wp-content/uploads/2025/07/4.jpg",
+    "newPath": "/assets/academy/images/misc/4.jpg",
+    "section": "images/misc",
+    "type": "image",
+    "notes": ""
+  },
+  {
+    "sourceUrl": "",
+    "originalPath": "wp-content/uploads/2025/07/5.jpg",
+    "sourceRef": "wp-content/uploads/2025/07/5.jpg",
+    "newPath": "/assets/academy/images/misc/5.jpg",
+    "section": "images/misc",
+    "type": "image",
+    "notes": ""
+  },
+  {
+    "sourceUrl": "",
+    "originalPath": "wp-content/uploads/2025/07/6.jpg",
+    "sourceRef": "wp-content/uploads/2025/07/6.jpg",
+    "newPath": "/assets/academy/images/misc/6.jpg",
+    "section": "images/misc",
+    "type": "image",
+    "notes": ""
+  },
+  {
+    "sourceUrl": "",
+    "originalPath": "wp-content/uploads/2025/07/7.jpg",
+    "sourceRef": "wp-content/uploads/2025/07/7.jpg",
+    "newPath": "/assets/academy/images/misc/7.jpg",
+    "section": "images/misc",
+    "type": "image",
+    "notes": ""
+  },
+  {
+    "sourceUrl": "",
+    "originalPath": "wp-content/uploads/2025/07/8.jpg",
+    "sourceRef": "wp-content/uploads/2025/07/8.jpg",
+    "newPath": "/assets/academy/images/misc/8.jpg",
+    "section": "images/misc",
+    "type": "image",
+    "notes": ""
+  },
+  {
+    "sourceUrl": "",
+    "originalPath": "wp-content/uploads/2023/10/austraylia-34x34.jpg",
+    "sourceRef": "wp-content/uploads/2023/10/austraylia-34x34.jpg",
+    "newPath": "/assets/academy/images/misc/austraylia-34x34.jpg",
+    "section": "images/misc",
+    "type": "image",
+    "notes": ""
+  },
+  {
+    "sourceUrl": "",
+    "originalPath": "wp-content/uploads/2023/11/avatar-1.jpg",
+    "sourceRef": "wp-content/uploads/2023/11/avatar-1.jpg",
+    "newPath": "/assets/academy/images/misc/avatar-1.jpg",
+    "section": "images/misc",
+    "type": "image",
+    "notes": ""
+  },
+  {
+    "sourceUrl": "",
+    "originalPath": "wp-content/uploads/2023/11/avatar-2.jpg",
+    "sourceRef": "wp-content/uploads/2023/11/avatar-2.jpg",
+    "newPath": "/assets/academy/images/misc/avatar-2.jpg",
+    "section": "images/misc",
+    "type": "image",
+    "notes": ""
+  },
+  {
+    "sourceUrl": "",
+    "originalPath": "wp-content/uploads/2025/10/Bandera_de_Espana.svg-420x420.png",
+    "sourceRef": "wp-content/uploads/2025/10/Bandera_de_Espana.svg-420x420.png",
+    "newPath": "/assets/academy/images/misc/bandera-de-espana-svg-420x420.png",
+    "section": "images/misc",
+    "type": "image",
+    "notes": ""
+  },
+  {
+    "sourceUrl": "",
+    "originalPath": "wp-content/uploads/2025/08/Berlin-School-of-Business-and-Innovation.png",
+    "sourceRef": "wp-content/uploads/2025/08/Berlin-School-of-Business-and-Innovation.png",
+    "newPath": "/assets/academy/images/misc/berlin-school-of-business-and-innovation.png",
+    "section": "images/misc",
+    "type": "image",
+    "notes": ""
+  },
+  {
+    "sourceUrl": "",
+    "originalPath": "wp-content/uploads/2023/11/bg-1.jpg",
+    "sourceRef": "wp-content/uploads/2023/11/bg-1.jpg",
+    "newPath": "/assets/academy/images/misc/bg-1.jpg",
+    "section": "images/misc",
+    "type": "image",
+    "notes": ""
+  },
+  {
+    "sourceUrl": "",
+    "originalPath": "wp-content/uploads/2023/10/blog10-740x474.jpg",
+    "sourceRef": "wp-content/uploads/2023/10/blog10-740x474.jpg",
+    "newPath": "/assets/academy/images/misc/blog10-740x474.jpg",
+    "section": "images/misc",
+    "type": "image",
+    "notes": ""
+  },
+  {
+    "sourceUrl": "",
+    "originalPath": "wp-content/uploads/2023/10/blog10.jpg",
+    "sourceRef": "wp-content/uploads/2023/10/blog10.jpg",
+    "newPath": "/assets/academy/images/misc/blog10.jpg",
+    "section": "images/misc",
+    "type": "image",
+    "notes": ""
+  },
+  {
+    "sourceUrl": "",
+    "originalPath": "wp-content/uploads/2023/10/blog9-740x474.jpg",
+    "sourceRef": "wp-content/uploads/2023/10/blog9-740x474.jpg",
+    "newPath": "/assets/academy/images/misc/blog9-740x474.jpg",
+    "section": "images/misc",
+    "type": "image",
+    "notes": ""
+  },
+  {
+    "sourceUrl": "",
+    "originalPath": "wp-content/uploads/2023/10/blog9.jpg",
+    "sourceRef": "wp-content/uploads/2023/10/blog9.jpg",
+    "newPath": "/assets/academy/images/misc/blog9.jpg",
+    "section": "images/misc",
+    "type": "image",
+    "notes": ""
+  },
+  {
+    "sourceUrl": "",
+    "originalPath": "wp-content/uploads/2025/08/campaign_image.jpg",
+    "sourceRef": "wp-content/uploads/2025/08/campaign_image.jpg",
+    "newPath": "/assets/academy/images/misc/campaign-image.jpg",
+    "section": "images/misc",
+    "type": "image",
+    "notes": ""
+  },
+  {
+    "sourceUrl": "",
+    "originalPath": "wp-content/plugins/woocommerce/assets/fonts/cardo_normal_400.woff2",
+    "sourceRef": "wp-content/plugins/woocommerce/assets/fonts/cardo_normal_400.woff2",
+    "newPath": "/assets/academy/images/misc/cardo-normal-400.woff2",
+    "section": "images/misc",
+    "type": "font",
+    "notes": ""
+  },
+  {
+    "sourceUrl": "",
+    "originalPath": "wp-content/uploads/2025/08/CCTB.png",
+    "sourceRef": "wp-content/uploads/2025/08/CCTB.png",
+    "newPath": "/assets/academy/images/misc/cctb.png",
+    "section": "images/misc",
+    "type": "image",
+    "notes": ""
+  },
+  {
+    "sourceUrl": "",
+    "originalPath": "wp-content/uploads/2025/07/CFIB_Member_SmRed-300x155-300x155-1.jpg",
+    "sourceRef": "wp-content/uploads/2025/07/CFIB_Member_SmRed-300x155-300x155-1.jpg",
+    "newPath": "/assets/academy/images/misc/cfib-member-smred-300x155-300x155-1.jpg",
+    "section": "images/misc",
+    "type": "image",
+    "notes": ""
+  },
+  {
+    "sourceUrl": "",
+    "originalPath": "wp-content/uploads/2023/10/Challanges-of-consultating-new-Business-Firms-740x474.jpg",
+    "sourceRef": "wp-content/uploads/2023/10/Challanges-of-consultating-new-Business-Firms-740x474.jpg",
+    "newPath": "/assets/academy/images/misc/challanges-of-consultating-new-business-firms-740x474.jpg",
+    "section": "images/misc",
+    "type": "image",
+    "notes": ""
+  },
+  {
+    "sourceUrl": "",
+    "originalPath": "wp-content/uploads/2023/10/Challanges-of-consultating-new-Business-Firms.jpg",
+    "sourceRef": "wp-content/uploads/2023/10/Challanges-of-consultating-new-Business-Firms.jpg",
+    "newPath": "/assets/academy/images/misc/challanges-of-consultating-new-business-firms.jpg",
+    "section": "images/misc",
+    "type": "image",
+    "notes": ""
+  },
+  {
+    "sourceUrl": "",
+    "originalPath": "wp-content/uploads/2025/07/download-16.jpg",
+    "sourceRef": "wp-content/uploads/2025/07/download-16.jpg",
+    "newPath": "/assets/academy/images/misc/download-16.jpg",
+    "section": "images/misc",
+    "type": "image",
+    "notes": ""
+  },
+  {
+    "sourceUrl": "",
+    "originalPath": "wp-content/uploads/2025/10/download-2.png",
+    "sourceRef": "wp-content/uploads/2025/10/download-2.png",
+    "newPath": "/assets/academy/images/misc/download-2.png",
+    "section": "images/misc",
+    "type": "image",
+    "notes": ""
+  },
+  {
+    "sourceUrl": "",
+    "originalPath": "wp-content/uploads/2023/10/german-34x34.jpg",
+    "sourceRef": "wp-content/uploads/2023/10/german-34x34.jpg",
+    "newPath": "/assets/academy/images/misc/german-34x34.jpg",
+    "section": "images/misc",
+    "type": "image",
+    "notes": ""
+  },
+  {
+    "sourceUrl": "",
+    "originalPath": "wp-content/uploads/2023/10/Girl-and-world.jpg",
+    "sourceRef": "wp-content/uploads/2023/10/Girl-and-world.jpg",
+    "newPath": "/assets/academy/images/misc/girl-and-world.jpg",
+    "section": "images/misc",
+    "type": "image",
+    "notes": ""
+  },
+  {
+    "sourceUrl": "",
+    "originalPath": "wp-content/uploads/2023/10/How-consultation-in-business-is-affecting-new-ventures-740x474.jpg",
+    "sourceRef": "wp-content/uploads/2023/10/How-consultation-in-business-is-affecting-new-ventures-740x474.jpg",
+    "newPath": "/assets/academy/images/misc/how-consultation-in-business-is-affecting-new-ventures-740x474.jpg",
+    "section": "images/misc",
+    "type": "image",
+    "notes": ""
+  },
+  {
+    "sourceUrl": "",
+    "originalPath": "wp-content/uploads/2023/10/How-consultation-in-business-is-affecting-new-ventures.jpg",
+    "sourceRef": "wp-content/uploads/2023/10/How-consultation-in-business-is-affecting-new-ventures.jpg",
+    "newPath": "/assets/academy/images/misc/how-consultation-in-business-is-affecting-new-ventures.jpg",
+    "section": "images/misc",
+    "type": "image",
+    "notes": ""
+  },
+  {
+    "sourceUrl": "",
+    "originalPath": "wp-content/uploads/2025/08/IBS.png",
+    "sourceRef": "wp-content/uploads/2025/08/IBS.png",
+    "newPath": "/assets/academy/images/misc/ibs.png",
+    "section": "images/misc",
+    "type": "image",
+    "notes": ""
+  },
+  {
+    "sourceUrl": "",
+    "originalPath": "wp-content/uploads/2023/11/Image-1.jpg",
+    "sourceRef": "wp-content/uploads/2023/11/Image-1.jpg",
+    "newPath": "/assets/academy/images/misc/image-1.jpg",
+    "section": "images/misc",
+    "type": "image",
+    "notes": ""
+  },
+  {
+    "sourceUrl": "",
+    "originalPath": "wp-content/uploads/2025/07/image-asset-400x280.jpeg",
+    "sourceRef": "wp-content/uploads/2025/07/image-asset-400x280.jpeg",
+    "newPath": "/assets/academy/images/misc/image-asset-400x280.jpeg",
+    "section": "images/misc",
+    "type": "image",
+    "notes": ""
+  },
+  {
+    "sourceUrl": "",
+    "originalPath": "wp-content/uploads/2025/07/image-asset-410x270.jpeg",
+    "sourceRef": "wp-content/uploads/2025/07/image-asset-410x270.jpeg",
+    "newPath": "/assets/academy/images/misc/image-asset-410x270.jpeg",
+    "section": "images/misc",
+    "type": "image",
+    "notes": ""
+  },
+  {
+    "sourceUrl": "",
+    "originalPath": "wp-content/uploads/2025/07/images-1.png",
+    "sourceRef": "wp-content/uploads/2025/07/images-1.png",
+    "newPath": "/assets/academy/images/misc/images-1-2.png",
+    "section": "images/misc",
+    "type": "image",
+    "notes": ""
+  },
+  {
+    "sourceUrl": "",
+    "originalPath": "wp-content/uploads/2025/10/images-1.png",
+    "sourceRef": "wp-content/uploads/2025/10/images-1.png",
+    "newPath": "/assets/academy/images/misc/images-1.png",
+    "section": "images/misc",
+    "type": "image",
+    "notes": ""
+  },
+  {
+    "sourceUrl": "",
+    "originalPath": "wp-content/uploads/2025/10/images.png",
+    "sourceRef": "wp-content/uploads/2025/10/images.png",
+    "newPath": "/assets/academy/images/misc/images-2.png",
+    "section": "images/misc",
+    "type": "image",
+    "notes": ""
+  },
+  {
+    "sourceUrl": "",
+    "originalPath": "wp-content/uploads/2025/10/images-2.png",
+    "sourceRef": "wp-content/uploads/2025/10/images-2.png",
+    "newPath": "/assets/academy/images/misc/images-2.png",
+    "section": "images/misc",
+    "type": "image",
+    "notes": ""
+  },
+  {
+    "sourceUrl": "",
+    "originalPath": "wp-content/uploads/2025/07/images.png",
+    "sourceRef": "wp-content/uploads/2025/07/images.png",
+    "newPath": "/assets/academy/images/misc/images-3.png",
+    "section": "images/misc",
+    "type": "image",
+    "notes": ""
+  },
+  {
+    "sourceUrl": "",
+    "originalPath": "wp-content/uploads/2023/11/images.png",
+    "sourceRef": "wp-content/uploads/2023/11/images.png",
+    "newPath": "/assets/academy/images/misc/images.png",
+    "section": "images/misc",
+    "type": "image",
+    "notes": ""
+  },
+  {
+    "sourceUrl": "",
+    "originalPath": "wp-content/plugins/woocommerce/assets/fonts/Inter-VariableFont_slnt,wght.woff2",
+    "sourceRef": "wp-content/plugins/woocommerce/assets/fonts/Inter-VariableFont_slnt,wght.woff2",
+    "newPath": "/assets/academy/images/misc/inter-variablefont-slnt-wght.woff2",
+    "section": "images/misc",
+    "type": "font",
+    "notes": ""
+  },
+  {
+    "sourceUrl": "",
+    "originalPath": "wp-content/uploads/2023/10/iStock-1470139586-410x270.jpg",
+    "sourceRef": "wp-content/uploads/2023/10/iStock-1470139586-410x270.jpg",
+    "newPath": "/assets/academy/images/misc/istock-1470139586-410x270.jpg",
+    "section": "images/misc",
+    "type": "image",
+    "notes": ""
+  },
+  {
+    "sourceUrl": "",
+    "originalPath": "wp-content/uploads/2025/07/iStock-2061200140-410x270.jpg",
+    "sourceRef": "wp-content/uploads/2025/07/iStock-2061200140-410x270.jpg",
+    "newPath": "/assets/academy/images/misc/istock-2061200140-410x270.jpg",
+    "section": "images/misc",
+    "type": "image",
+    "notes": ""
+  },
+  {
+    "sourceUrl": "",
+    "originalPath": "wp-content/uploads/2023/10/istockphoto-1278978962-612x612-1-400x280.jpg",
+    "sourceRef": "wp-content/uploads/2023/10/istockphoto-1278978962-612x612-1-400x280.jpg",
+    "newPath": "/assets/academy/images/misc/istockphoto-1278978962-612x612-1-400x280.jpg",
+    "section": "images/misc",
+    "type": "image",
+    "notes": ""
+  },
+  {
+    "sourceUrl": "",
+    "originalPath": "wp-content/uploads/2023/10/istockphoto-1278978962-612x612-1-410x270.jpg",
+    "sourceRef": "wp-content/uploads/2023/10/istockphoto-1278978962-612x612-1-410x270.jpg",
+    "newPath": "/assets/academy/images/misc/istockphoto-1278978962-612x612-1-410x270.jpg",
+    "section": "images/misc",
+    "type": "image",
+    "notes": ""
+  },
+  {
+    "sourceUrl": "",
+    "originalPath": "wp-content/uploads/2023/10/Map2-min.png",
+    "sourceRef": "wp-content/uploads/2023/10/Map2-min.png",
+    "newPath": "/assets/academy/images/misc/map2-min.png",
+    "section": "images/misc",
+    "type": "image",
+    "notes": ""
+  },
+  {
+    "sourceUrl": "",
+    "originalPath": "wp-content/uploads/2023/10/page-title.jpg",
+    "sourceRef": "wp-content/uploads/2023/10/page-title.jpg",
+    "newPath": "/assets/academy/images/misc/page-title.jpg",
+    "section": "images/misc",
+    "type": "image",
+    "notes": ""
+  },
+  {
+    "sourceUrl": "",
+    "originalPath": "wp-content/uploads/2025/08/TIC.png",
+    "sourceRef": "wp-content/uploads/2025/08/TIC.png",
+    "newPath": "/assets/academy/images/misc/tic.png",
+    "section": "images/misc",
+    "type": "image",
+    "notes": ""
+  },
+  {
+    "sourceUrl": "",
+    "originalPath": "wp-content/uploads/2025/08/TSOM.png",
+    "sourceRef": "wp-content/uploads/2025/08/TSOM.png",
+    "newPath": "/assets/academy/images/misc/tsom.png",
+    "section": "images/misc",
+    "type": "image",
+    "notes": ""
+  },
+  {
+    "sourceUrl": "",
+    "originalPath": "wp-content/uploads/2025/08/UNFC.png",
+    "sourceRef": "wp-content/uploads/2025/08/UNFC.png",
+    "newPath": "/assets/academy/images/misc/unfc.png",
+    "section": "images/misc",
+    "type": "image",
+    "notes": ""
+  },
+  {
+    "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg",
+    "originalPath": "",
+    "sourceRef": "https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg",
+    "newPath": "/assets/academy/images/misc/whatsapp.svg",
+    "section": "images/misc",
+    "type": "image",
+    "notes": ""
+  },
+  {
+    "sourceUrl": "",
+    "originalPath": "wp-content/uploads/2023/10/IELTS-Exam-Preparation-400x280.jpg",
+    "sourceRef": "wp-content/uploads/2023/10/IELTS-Exam-Preparation-400x280.jpg",
+    "newPath": "/assets/academy/images/services/ielts-exam-preparation-400x280.jpg",
+    "section": "images/services",
+    "type": "image",
+    "notes": ""
+  },
+  {
+    "sourceUrl": "",
+    "originalPath": "wp-content/uploads/2023/10/IELTS-Exam-Preparation-410x270.jpg",
+    "sourceRef": "wp-content/uploads/2023/10/IELTS-Exam-Preparation-410x270.jpg",
+    "newPath": "/assets/academy/images/services/ielts-exam-preparation-410x270.jpg",
+    "section": "images/services",
+    "type": "image",
+    "notes": ""
+  },
+  {
+    "sourceUrl": "",
+    "originalPath": "wp-content/uploads/2023/10/why-internship-with-crownhill-packaging-for-packaging-design-students-410x270.jpg",
+    "sourceRef": "wp-content/uploads/2023/10/why-internship-with-crownhill-packaging-for-packaging-design-students-410x270.jpg",
+    "newPath": "/assets/academy/images/services/why-internship-with-crownhill-packaging-for-packaging-design-students-410x270.jpg",
+    "section": "images/services",
+    "type": "image",
+    "notes": ""
+  },
+  {
+    "sourceUrl": "",
+    "originalPath": "wp-content/uploads/2023/11/bgr-client-carousel.jpg",
+    "sourceRef": "wp-content/uploads/2023/11/bgr-client-carousel.jpg",
+    "newPath": "/assets/academy/images/testimonials/bgr-client-carousel.jpg",
+    "section": "images/testimonials",
+    "type": "image",
+    "notes": ""
+  },
+  {
+    "sourceUrl": "",
+    "originalPath": "wp-content/uploads/2025/10/download-removebg-preview.png",
+    "sourceRef": "wp-content/uploads/2025/10/download-removebg-preview.png",
+    "newPath": "/assets/academy/images/testimonials/download-removebg-preview.png",
+    "section": "images/testimonials",
+    "type": "image",
+    "notes": ""
+  },
+  {
+    "sourceUrl": "",
+    "originalPath": "wp-content/uploads/2023/10/testimonial-01-56x56.png",
+    "sourceRef": "wp-content/uploads/2023/10/testimonial-01-56x56.png",
+    "newPath": "/assets/academy/images/testimonials/testimonial-01-56x56.png",
+    "section": "images/testimonials",
+    "type": "image",
+    "notes": ""
+  },
+  {
+    "sourceUrl": "",
+    "originalPath": "wp-content/uploads/2023/10/testimonial-02-56x56.png",
+    "sourceRef": "wp-content/uploads/2023/10/testimonial-02-56x56.png",
+    "newPath": "/assets/academy/images/testimonials/testimonial-02-56x56.png",
+    "section": "images/testimonials",
+    "type": "image",
+    "notes": ""
+  },
+  {
+    "sourceUrl": "",
+    "originalPath": "wp-content/uploads/2023/10/testimonial-03-56x56.png",
+    "sourceRef": "wp-content/uploads/2023/10/testimonial-03-56x56.png",
+    "newPath": "/assets/academy/images/testimonials/testimonial-03-56x56.png",
+    "section": "images/testimonials",
+    "type": "image",
+    "notes": ""
+  },
+  {
+    "sourceUrl": "",
+    "originalPath": "wp-content/uploads/2025/07/Canada-Certified-Counselor-Logo2.jpg",
+    "sourceRef": "wp-content/uploads/2025/07/Canada-Certified-Counselor-Logo2.jpg",
+    "newPath": "/assets/academy/logos/canada-certified-counselor-logo2.jpg",
+    "section": "logos",
+    "type": "image",
+    "notes": ""
+  },
+  {
+    "sourceUrl": "",
+    "originalPath": "wp-content/uploads/2025/07/Chase_Global_Academy-04-removebg-preview.png",
+    "sourceRef": "wp-content/uploads/2025/07/Chase_Global_Academy-04-removebg-preview.png",
+    "newPath": "/assets/academy/logos/chase-global-academy-04-removebg-preview.png",
+    "section": "logos",
+    "type": "image",
+    "notes": ""
+  },
+  {
+    "sourceUrl": "",
+    "originalPath": "wp-content/uploads/2025/07/Chase-Global-Group-TradeMark-Certificate-1.png",
+    "sourceRef": "wp-content/uploads/2025/07/Chase-Global-Group-TradeMark-Certificate-1.png",
+    "newPath": "/assets/academy/logos/chase-global-group-trademark-certificate-1.png",
+    "section": "logos",
+    "type": "image",
+    "notes": ""
+  },
+  {
+    "sourceUrl": "",
+    "originalPath": "wp-content/uploads/2025/07/cropped-Chase_Global_Academy-04-removebg-preview-180x180.png",
+    "sourceRef": "wp-content/uploads/2025/07/cropped-Chase_Global_Academy-04-removebg-preview-180x180.png",
+    "newPath": "/assets/academy/logos/cropped-chase-global-academy-04-removebg-preview-180x180.png",
+    "section": "logos",
+    "type": "image",
+    "notes": ""
+  },
+  {
+    "sourceUrl": "",
+    "originalPath": "wp-content/uploads/2025/07/cropped-Chase_Global_Academy-04-removebg-preview-192x192.png",
+    "sourceRef": "wp-content/uploads/2025/07/cropped-Chase_Global_Academy-04-removebg-preview-192x192.png",
+    "newPath": "/assets/academy/logos/cropped-chase-global-academy-04-removebg-preview-192x192.png",
+    "section": "logos",
+    "type": "image",
+    "notes": ""
+  },
+  {
+    "sourceUrl": "",
+    "originalPath": "wp-content/uploads/2025/07/cropped-Chase_Global_Academy-04-removebg-preview-32x32.png",
+    "sourceRef": "wp-content/uploads/2025/07/cropped-Chase_Global_Academy-04-removebg-preview-32x32.png",
+    "newPath": "/assets/academy/logos/cropped-chase-global-academy-04-removebg-preview-32x32.png",
+    "section": "logos",
+    "type": "image",
+    "notes": ""
+  },
+  {
+    "sourceUrl": "",
+    "originalPath": "wp-content/uploads/2025/10/ggsindia_logo-removebg-preview.png",
+    "sourceRef": "wp-content/uploads/2025/10/ggsindia_logo-removebg-preview.png",
+    "newPath": "/assets/academy/logos/ggsindia-logo-removebg-preview.png",
+    "section": "logos",
+    "type": "image",
+    "notes": ""
+  },
+  {
+    "sourceUrl": "",
+    "originalPath": "wp-content/uploads/2025/07/international-english-language-testing-system-ielts-vector-logo-small-removebg-preview-1.webp",
+    "sourceRef": "wp-content/uploads/2025/07/international-english-language-testing-system-ielts-vector-logo-small-removebg-preview-1.webp",
+    "newPath": "/assets/academy/logos/international-english-language-testing-system-ielts-vector-logo-small-removebg-p-2.webp",
+    "section": "logos",
+    "type": "image",
+    "notes": ""
+  },
+  {
+    "sourceUrl": "",
+    "originalPath": "wp-content/uploads/2025/07/international-english-language-testing-system-ielts-vector-logo-small-removebg-preview.webp",
+    "sourceRef": "wp-content/uploads/2025/07/international-english-language-testing-system-ielts-vector-logo-small-removebg-preview.webp",
+    "newPath": "/assets/academy/logos/international-english-language-testing-system-ielts-vector-logo-small-removebg-p-3.webp",
+    "section": "logos",
+    "type": "image",
+    "notes": ""
+  },
+  {
+    "sourceUrl": "",
+    "originalPath": "wp-content/uploads/2025/07/international-english-language-testing-system-ielts-vector-logo-small-removebg-preview-2.webp",
+    "sourceRef": "wp-content/uploads/2025/07/international-english-language-testing-system-ielts-vector-logo-small-removebg-preview-2.webp",
+    "newPath": "/assets/academy/logos/international-english-language-testing-system-ielts-vector-logo-small-removebg-p.webp",
+    "section": "logos",
+    "type": "image",
+    "notes": ""
+  },
+  {
+    "sourceUrl": "",
+    "originalPath": "wp-content/uploads/2023/10/logo-1.png",
+    "sourceRef": "wp-content/uploads/2023/10/logo-1.png",
+    "newPath": "/assets/academy/logos/logo-1.png",
+    "section": "logos",
+    "type": "image",
+    "notes": ""
+  },
+  {
+    "sourceUrl": "",
+    "originalPath": "wp-content/plugins/essential-addons-for-elementor-lite/assets/admin/images/templately/logo-icon.svg",
+    "sourceRef": "wp-content/plugins/essential-addons-for-elementor-lite/assets/admin/images/templately/logo-icon.svg",
+    "newPath": "/assets/academy/logos/logo-icon.svg",
+    "section": "logos",
+    "type": "image",
+    "notes": ""
+  },
+  {
+    "sourceUrl": "",
+    "originalPath": "wp-content/uploads/2025/07/logo.png",
+    "sourceRef": "wp-content/uploads/2025/07/logo.png",
+    "newPath": "/assets/academy/logos/logo.png",
+    "section": "logos",
+    "type": "image",
+    "notes": ""
+  },
+  {
+    "sourceUrl": "",
+    "originalPath": "wp-content/uploads/2023/10/RCIC-Logo-Latest-1.jpeg",
+    "sourceRef": "wp-content/uploads/2023/10/RCIC-Logo-Latest-1.jpeg",
+    "newPath": "/assets/academy/logos/rcic-logo-latest-1.jpeg",
+    "section": "logos",
+    "type": "image",
+    "notes": ""
+  },
+  {
+    "sourceUrl": "",
+    "originalPath": "wp-content/plugins/elementor/assets/lib/font-awesome/css/all.css?ver=4.8.7.css",
+    "sourceRef": "wp-content/plugins/elementor/assets/lib/font-awesome/css/all.css%3Fver=4.8.7.css",
+    "newPath": "/assets/academy/styles/all-css-3fver-4-8-7.css",
+    "section": "styles",
+    "type": "style",
+    "notes": ""
+  },
+  {
+    "sourceUrl": "",
+    "originalPath": "wp-content/plugins/bravis-addons/assets/libs/font-awesome-pro/css/all.min.css?ver=5.15.4-pro.css",
+    "sourceRef": "wp-content/plugins/bravis-addons/assets/libs/font-awesome-pro/css/all.min.css%3Fver=5.15.4-pro.css",
+    "newPath": "/assets/academy/styles/all-min-css-3fver-5-15-4-pro.css",
+    "section": "styles",
+    "type": "style",
+    "notes": ""
+  },
+  {
+    "sourceUrl": "",
+    "originalPath": "wp-content/plugins/elementor/assets/lib/font-awesome/css/all.min.css?ver=6.5.4.css",
+    "sourceRef": "wp-content/plugins/elementor/assets/lib/font-awesome/css/all.min.css%3Fver=6.5.4.css",
+    "newPath": "/assets/academy/styles/all-min-css-3fver-6-5-4.css",
+    "section": "styles",
+    "type": "style",
+    "notes": ""
+  },
+  {
+    "sourceUrl": "https://use.fontawesome.com/releases/v6.7.2/css/all.css",
+    "originalPath": "",
+    "sourceRef": "https://use.fontawesome.com/releases/v6.7.2/css/all.css",
+    "newPath": "/assets/academy/styles/all.css",
+    "section": "styles",
+    "type": "style",
+    "notes": ""
+  },
+  {
+    "sourceUrl": "",
+    "originalPath": "wp-content/themes/immigway/assets/css/libs/animate.min.css?ver=1.1.0.css",
+    "sourceRef": "wp-content/themes/immigway/assets/css/libs/animate.min.css%3Fver=1.1.0.css",
+    "newPath": "/assets/academy/styles/animate-min-css-3fver-1-1-0.css",
+    "section": "styles",
+    "type": "style",
+    "notes": ""
+  },
+  {
+    "sourceUrl": "",
+    "originalPath": "wp-content/plugins/popup-for-elementor/library/animate.min.css?ver=4.1.1.css",
+    "sourceRef": "wp-content/plugins/popup-for-elementor/library/animate.min.css%3Fver=4.1.1.css",
+    "newPath": "/assets/academy/styles/animate-min-css-3fver-4-1-1.css",
+    "section": "styles",
+    "type": "style",
+    "notes": ""
+  },
+  {
+    "sourceUrl": "",
+    "originalPath": "wp-content/plugins/booked/assets/css/animations.css?ver=2.4.3.css",
+    "sourceRef": "wp-content/plugins/booked/assets/css/animations.css%3Fver=2.4.3.css",
+    "newPath": "/assets/academy/styles/animations-css-3fver-2-4-3.css",
+    "section": "styles",
+    "type": "style",
+    "notes": ""
+  },
+  {
+    "sourceUrl": "",
+    "originalPath": "wp-content/plugins/booked/dist/booked.css?ver=2.4.3.css",
+    "sourceRef": "wp-content/plugins/booked/dist/booked.css%3Fver=2.4.3.css",
+    "newPath": "/assets/academy/styles/booked-css-3fver-2-4-3.css",
+    "section": "styles",
+    "type": "style",
+    "notes": ""
+  },
+  {
+    "sourceUrl": "",
+    "originalPath": "wp-content/themes/immigway/assets/css/caseicon.css?ver=1.0.0.css",
+    "sourceRef": "wp-content/themes/immigway/assets/css/caseicon.css%3Fver=1.0.0.css",
+    "newPath": "/assets/academy/styles/caseicon-css-3fver-1-0-0.css",
+    "section": "styles",
+    "type": "style",
+    "notes": ""
+  },
+  {
+    "sourceUrl": "",
+    "originalPath": "wp-admin/css/color-picker.min.css?ver=6.8.3.css",
+    "sourceRef": "wp-admin/css/color-picker.min.css%3Fver=6.8.3.css",
+    "newPath": "/assets/academy/styles/color-picker-min-css-3fver-6-8-3.css",
+    "section": "styles",
+    "type": "style",
+    "notes": ""
+  },
+  {
+    "sourceUrl": "",
+    "originalPath": "wp-content/plugins/shopengine/modules/comparison/assets/css/comparison.css?ver=6.8.3.css",
+    "sourceRef": "wp-content/plugins/shopengine/modules/comparison/assets/css/comparison.css%3Fver=6.8.3.css",
+    "newPath": "/assets/academy/styles/comparison-css-3fver-6-8-3.css",
+    "section": "styles",
+    "type": "style",
+    "notes": ""
+  },
+  {
+    "sourceUrl": "",
+    "originalPath": "wp-content/plugins/table-builder-block/build/tablebuilder/components.css?ver=2.0.1.css",
+    "sourceRef": "wp-content/plugins/table-builder-block/build/tablebuilder/components.css%3Fver=2.0.1.css",
+    "newPath": "/assets/academy/styles/components-css-3fver-2-0-1.css",
+    "section": "styles",
+    "type": "style",
+    "notes": ""
+  },
+  {
+    "sourceUrl": "",
+    "originalPath": "wp-content/plugins/wp-ultimate-review/assets/public/css/content-page.css?ver=2.3.8.css",
+    "sourceRef": "wp-content/plugins/wp-ultimate-review/assets/public/css/content-page.css%3Fver=2.3.8.css",
+    "newPath": "/assets/academy/styles/content-page-css-3fver-2-3-8.css",
+    "section": "styles",
+    "type": "style",
+    "notes": ""
+  },
+  {
+    "sourceUrl": "",
+    "originalPath": "wp-content/plugins/country-phone-field-contact-form-7/assets/css/countrySelect.min.css?ver=6.8.3.css",
+    "sourceRef": "wp-content/plugins/country-phone-field-contact-form-7/assets/css/countrySelect.min.css%3Fver=6.8.3.css",
+    "newPath": "/assets/academy/styles/countryselect-min-css-3fver-6-8-3.css",
+    "section": "styles",
+    "type": "style",
+    "notes": ""
+  },
+  {
+    "sourceUrl": "",
+    "originalPath": "wp-content/uploads/elementor/css/custom-frontend.min.css?ver=1773187232.css",
+    "sourceRef": "wp-content/uploads/elementor/css/custom-frontend.min.css%3Fver=1773187232.css",
+    "newPath": "/assets/academy/styles/custom-frontend-min-css-3fver-1773187232.css",
+    "section": "styles",
+    "type": "style",
+    "notes": ""
+  },
+  {
+    "sourceUrl": "",
+    "originalPath": "wp-content/uploads/elementor/css/custom-widget-icon-box.min.css?ver=1773187232.css",
+    "sourceRef": "wp-content/uploads/elementor/css/custom-widget-icon-box.min.css%3Fver=1773187232.css",
+    "newPath": "/assets/academy/styles/custom-widget-icon-box-min-css-3fver-1773187232.css",
+    "section": "styles",
+    "type": "style",
+    "notes": ""
+  },
+  {
+    "sourceUrl": "",
+    "originalPath": "wp-content/uploads/elementor/css/custom-widget-image-box.min.css?ver=1773187232.css",
+    "sourceRef": "wp-content/uploads/elementor/css/custom-widget-image-box.min.css%3Fver=1773187232.css",
+    "newPath": "/assets/academy/styles/custom-widget-image-box-min-css-3fver-1773187232.css",
+    "section": "styles",
+    "type": "style",
+    "notes": ""
+  },
+  {
+    "sourceUrl": "",
+    "originalPath": "wp-includes/css/dashicons.min.css?ver=6.8.3.css",
+    "sourceRef": "wp-includes/css/dashicons.min.css%3Fver=6.8.3.css",
+    "newPath": "/assets/academy/styles/dashicons-min-css-3fver-6-8-3.css",
+    "section": "styles",
+    "type": "style",
+    "notes": ""
+  },
+  {
+    "sourceUrl": "",
+    "originalPath": "wp-content/themes/immigway/assets/css/libs/datetimepicker.css?ver=1.0.0.css",
+    "sourceRef": "wp-content/themes/immigway/assets/css/libs/datetimepicker.css%3Fver=1.0.0.css",
+    "newPath": "/assets/academy/styles/datetimepicker-css-3fver-1-0-0.css",
+    "section": "styles",
+    "type": "style",
+    "notes": ""
+  },
+  {
+    "sourceUrl": "",
+    "originalPath": "wp-content/plugins/woocommerce/assets/css/photoswipe/default-skin/default-skin.min.css?ver=10.4.3.css",
+    "sourceRef": "wp-content/plugins/woocommerce/assets/css/photoswipe/default-skin/default-skin.min.css%3Fver=10.4.3.css",
+    "newPath": "/assets/academy/styles/default-skin-min-css-3fver-10-4-3.css",
+    "section": "styles",
+    "type": "style",
+    "notes": ""
+  },
+  {
+    "sourceUrl": "",
+    "originalPath": "wp-content/plugins/elementor/assets/css/conditionals/e-swiper.min.css?ver=3.33.4.css",
+    "sourceRef": "wp-content/plugins/elementor/assets/css/conditionals/e-swiper.min.css%3Fver=3.33.4.css",
+    "newPath": "/assets/academy/styles/e-swiper-min-css-3fver-3-33-4.css",
+    "section": "styles",
+    "type": "style",
+    "notes": ""
+  },
+  {
+    "sourceUrl": "",
+    "originalPath": "wp-content/plugins/elementskit-lite/modules/elementskit-icon-pack/assets/css/ekiticons.css?ver=3.6.1.css",
+    "sourceRef": "wp-content/plugins/elementskit-lite/modules/elementskit-icon-pack/assets/css/ekiticons.css%3Fver=3.6.1.css",
+    "newPath": "/assets/academy/styles/ekiticons-css-3fver-3-6-1.css",
+    "section": "styles",
+    "type": "style",
+    "notes": ""
+  },
+  {
+    "sourceUrl": "",
+    "originalPath": "wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css?ver=5.44.0.css",
+    "sourceRef": "wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css%3Fver=5.44.0.css",
+    "newPath": "/assets/academy/styles/elementor-icons-min-css-3fver-5-44-0.css",
+    "section": "styles",
+    "type": "style",
+    "notes": ""
+  },
+  {
+    "sourceUrl": "",
+    "originalPath": "wp-content/plugins/elementor/assets/lib/animations/styles/fadeInUp.min.css?ver=3.33.4.css",
+    "sourceRef": "wp-content/plugins/elementor/assets/lib/animations/styles/fadeInUp.min.css%3Fver=3.33.4.css",
+    "newPath": "/assets/academy/styles/fadeinup-min-css-3fver-3-33-4.css",
+    "section": "styles",
+    "type": "style",
+    "notes": ""
+  },
+  {
+    "sourceUrl": "",
+    "originalPath": "wp-content/themes/immigway/assets/fonts/flaticon/css/flaticon.css?ver=1.0.0.css",
+    "sourceRef": "wp-content/themes/immigway/assets/fonts/flaticon/css/flaticon.css%3Fver=1.0.0.css",
+    "newPath": "/assets/academy/styles/flaticon-css-3fver-1-0-0.css",
+    "section": "styles",
+    "type": "style",
+    "notes": ""
+  },
+  {
+    "sourceUrl": "",
+    "originalPath": "wp-content/plugins/elementor/assets/lib/font-awesome/css/font-awesome.min.css?ver=4.7.0.css",
+    "sourceRef": "wp-content/plugins/elementor/assets/lib/font-awesome/css/font-awesome.min.css%3Fver=4.7.0.css",
+    "newPath": "/assets/academy/styles/font-awesome-min-css-3fver-4-7-0.css",
+    "section": "styles",
+    "type": "style",
+    "notes": ""
+  },
+  {
+    "sourceUrl": "",
+    "originalPath": "wp-content/plugins/wp-social/assets/css/font-icon.css?ver=3.1.4.css",
+    "sourceRef": "wp-content/plugins/wp-social/assets/css/font-icon.css%3Fver=3.1.4.css",
+    "newPath": "/assets/academy/styles/font-icon-css-3fver-3-1-4.css",
+    "section": "styles",
+    "type": "style",
+    "notes": ""
+  },
+  {
+    "sourceUrl": "",
+    "originalPath": "wp-content/plugins/gutenkit-blocks-addon/build/gutenkit/frontend-common.css?ver=a28538744097629e283d.css",
+    "sourceRef": "wp-content/plugins/gutenkit-blocks-addon/build/gutenkit/frontend-common.css%3Fver=a28538744097629e283d.css",
+    "newPath": "/assets/academy/styles/frontend-common-css-3fver-a28538744097629e283d.css",
+    "section": "styles",
+    "type": "style",
+    "notes": ""
+  },
+  {
+    "sourceUrl": "",
+    "originalPath": "wp-content/plugins/wp-social/assets/css/frontend.css?ver=3.1.4.css",
+    "sourceRef": "wp-content/plugins/wp-social/assets/css/frontend.css%3Fver=3.1.4.css",
+    "newPath": "/assets/academy/styles/frontend-css-3fver-3-1-4.css",
+    "section": "styles",
+    "type": "style",
+    "notes": ""
+  },
+  {
+    "sourceUrl": "",
+    "originalPath": "wp-content/plugins/popup-builder-block/build/compatibility/frontend.css?ver=3d448a7df93bfa355643.css",
+    "sourceRef": "wp-content/plugins/popup-builder-block/build/compatibility/frontend.css%3Fver=3d448a7df93bfa355643.css",
+    "newPath": "/assets/academy/styles/frontend-css-3fver-3d448a7df93bfa355643.css",
+    "section": "styles",
+    "type": "style",
+    "notes": ""
+  },
+  {
+    "sourceUrl": "",
+    "originalPath": "wp-content/plugins/shopengine/modules/swatches/assets/css/frontend.css?ver=4.8.7.css",
+    "sourceRef": "wp-content/plugins/shopengine/modules/swatches/assets/css/frontend.css%3Fver=4.8.7.css",
+    "newPath": "/assets/academy/styles/frontend-css-3fver-4-8-7.css",
+    "section": "styles",
+    "type": "style",
+    "notes": ""
+  },
+  {
+    "sourceUrl": "",
+    "originalPath": "wp-content/plugins/booked/includes/add-ons/woocommerce-payments/css/frontend-style.css?ver=6.8.3.css",
+    "sourceRef": "wp-content/plugins/booked/includes/add-ons/woocommerce-payments/css/frontend-style.css%3Fver=6.8.3.css",
+    "newPath": "/assets/academy/styles/frontend-style-css-3fver-6-8-3.css",
+    "section": "styles",
+    "type": "style",
+    "notes": ""
+  },
+  {
+    "sourceUrl": "",
+    "originalPath": "wp-content/plugins/essential-addons-for-elementor-lite/assets/front-end/css/view/general.min.css?ver=6.5.4.css",
+    "sourceRef": "wp-content/plugins/essential-addons-for-elementor-lite/assets/front-end/css/view/general.min.css%3Fver=6.5.4.css",
+    "newPath": "/assets/academy/styles/general-min-css-3fver-6-5-4.css",
+    "section": "styles",
+    "type": "style",
+    "notes": ""
+  },
+  {
+    "sourceUrl": "",
+    "originalPath": "wp-content/plugins/popup-builder-block/build/popup/global.css?ver=2.2.3.css",
+    "sourceRef": "wp-content/plugins/popup-builder-block/build/popup/global.css%3Fver=2.2.3.css",
+    "newPath": "/assets/academy/styles/global-css-3fver-2-2-3.css",
+    "section": "styles",
+    "type": "style",
+    "notes": ""
+  },
+  {
+    "sourceUrl": "",
+    "originalPath": "wp-content/themes/immigway/assets/css/grid.css?ver=1.0.0.css",
+    "sourceRef": "wp-content/themes/immigway/assets/css/grid.css%3Fver=1.0.0.css",
+    "newPath": "/assets/academy/styles/grid-css-3fver-1-0-0.css",
+    "section": "styles",
+    "type": "style",
+    "notes": ""
+  },
+  {
+    "sourceUrl": "",
+    "originalPath": "wp-content/uploads/elementor/google-fonts/css/heebo.css?ver=1759784439.css",
+    "sourceRef": "wp-content/uploads/elementor/google-fonts/css/heebo.css%3Fver=1759784439.css",
+    "newPath": "/assets/academy/styles/heebo-css-3fver-1759784439.css",
+    "section": "styles",
+    "type": "style",
+    "notes": ""
+  },
+  {
+    "sourceUrl": "",
+    "originalPath": "wp-content/plugins/country-phone-field-contact-form-7/assets/css/intlTelInput.min.css?ver=6.8.3.css",
+    "sourceRef": "wp-content/plugins/country-phone-field-contact-form-7/assets/css/intlTelInput.min.css%3Fver=6.8.3.css",
+    "newPath": "/assets/academy/styles/intltelinput-min-css-3fver-6-8-3.css",
+    "section": "styles",
+    "type": "style",
+    "notes": ""
+  },
+  {
+    "sourceUrl": "",
+    "originalPath": "wp-content/themes/immigway/assets/css/libs/magnific-popup.css?ver=1.1.0.css",
+    "sourceRef": "wp-content/themes/immigway/assets/css/libs/magnific-popup.css%3Fver=1.1.0.css",
+    "newPath": "/assets/academy/styles/magnific-popup-css-3fver-1-1-0.css",
+    "section": "styles",
+    "type": "style",
+    "notes": ""
+  },
+  {
+    "sourceUrl": "",
+    "originalPath": "wp-content/plugins/bravis-addons/assets/css/main.css?ver=1.0.0.css",
+    "sourceRef": "wp-content/plugins/bravis-addons/assets/css/main.css%3Fver=1.0.0.css",
+    "newPath": "/assets/academy/styles/main-css-3fver-1-0-0.css",
+    "section": "styles",
+    "type": "style",
+    "notes": ""
+  },
+  {
+    "sourceUrl": "",
+    "originalPath": "wp-content/plugins/woocommerce/assets/css/photoswipe/photoswipe.min.css?ver=10.4.3.css",
+    "sourceRef": "wp-content/plugins/woocommerce/assets/css/photoswipe/photoswipe.min.css%3Fver=10.4.3.css",
+    "newPath": "/assets/academy/styles/photoswipe-min-css-3fver-10-4-3.css",
+    "section": "styles",
+    "type": "style",
+    "notes": ""
+  },
+  {
+    "sourceUrl": "",
+    "originalPath": "wp-content/plugins/elementor-pro/assets/css/conditionals/popup.min.css?ver=3.25.2.css",
+    "sourceRef": "wp-content/plugins/elementor-pro/assets/css/conditionals/popup.min.css%3Fver=3.25.2.css",
+    "newPath": "/assets/academy/styles/popup-min-css-3fver-3-25-2.css",
+    "section": "styles",
+    "type": "style",
+    "notes": ""
+  },
+  {
+    "sourceUrl": "",
+    "originalPath": "wp-content/plugins/popup-anything-on-click/assets/css/popupaoc-public.css?ver=2.8.8.css",
+    "sourceRef": "wp-content/plugins/popup-anything-on-click/assets/css/popupaoc-public.css%3Fver=2.8.8.css",
+    "newPath": "/assets/academy/styles/popupaoc-public-css-3fver-2-8-8.css",
+    "section": "styles",
+    "type": "style",
+    "notes": ""
+  },
+  {
+    "sourceUrl": "",
+    "originalPath": "wp-content/uploads/elementor/google-fonts/css/ptserif.css?ver=1752776505.css",
+    "sourceRef": "wp-content/uploads/elementor/google-fonts/css/ptserif.css%3Fver=1752776505.css",
+    "newPath": "/assets/academy/styles/ptserif-css-3fver-1752776505.css",
+    "section": "styles",
+    "type": "style",
+    "notes": ""
+  },
+  {
+    "sourceUrl": "",
+    "originalPath": "wp-content/plugins/elementskit-lite/widgets/init/assets/css/responsive.css?ver=3.6.1.css",
+    "sourceRef": "wp-content/plugins/elementskit-lite/widgets/init/assets/css/responsive.css%3Fver=3.6.1.css",
+    "newPath": "/assets/academy/styles/responsive-css-3fver-3-6-1.css",
+    "section": "styles",
+    "type": "style",
+    "notes": ""
+  },
+  {
+    "sourceUrl": "",
+    "originalPath": "wp-content/uploads/elementor/google-fonts/css/roboto.css?ver=1752776501.css",
+    "sourceRef": "wp-content/uploads/elementor/google-fonts/css/roboto.css%3Fver=1752776501.css",
+    "newPath": "/assets/academy/styles/roboto-css-3fver-1752776501.css",
+    "section": "styles",
+    "type": "style",
+    "notes": ""
+  },
+  {
+    "sourceUrl": "",
+    "originalPath": "wp-content/uploads/elementor/google-fonts/css/rubik.css?ver=1752776508.css",
+    "sourceRef": "wp-content/uploads/elementor/google-fonts/css/rubik.css%3Fver=1752776508.css",
+    "newPath": "/assets/academy/styles/rubik-css-3fver-1752776508.css",
+    "section": "styles",
+    "type": "style",
+    "notes": ""
+  },
+  {
+    "sourceUrl": "",
+    "originalPath": "wp-content/plugins/shopengine/assets/css/shopengine-modal.css?ver=4.8.7.css",
+    "sourceRef": "wp-content/plugins/shopengine/assets/css/shopengine-modal.css%3Fver=4.8.7.css",
+    "newPath": "/assets/academy/styles/shopengine-modal-css-3fver-4-8-7.css",
+    "section": "styles",
+    "type": "style",
+    "notes": ""
+  },
+  {
+    "sourceUrl": "",
+    "originalPath": "wp-content/plugins/shopengine/assets/css/shopengine-public.css?ver=4.8.7.css",
+    "sourceRef": "wp-content/plugins/shopengine/assets/css/shopengine-public.css%3Fver=4.8.7.css",
+    "newPath": "/assets/academy/styles/shopengine-public-css-3fver-4-8-7.css",
+    "section": "styles",
+    "type": "style",
+    "notes": ""
+  },
+  {
+    "sourceUrl": "",
+    "originalPath": "wp-content/uploads/elementor/google-fonts/css/sourcesanspro.css?ver=1752776512.css",
+    "sourceRef": "wp-content/uploads/elementor/google-fonts/css/sourcesanspro.css%3Fver=1752776512.css",
+    "newPath": "/assets/academy/styles/sourcesanspro-css-3fver-1752776512.css",
+    "section": "styles",
+    "type": "style",
+    "notes": ""
+  },
+  {
+    "sourceUrl": "",
+    "originalPath": "wp-content/plugins/revslider/public/css/sr7.css?ver=6.7.34.css",
+    "sourceRef": "wp-content/plugins/revslider/public/css/sr7.css%3Fver=6.7.34.css",
+    "newPath": "/assets/academy/styles/sr7-css-3fver-6-7-34.css",
+    "section": "styles",
+    "type": "style",
+    "notes": ""
+  },
+  {
+    "sourceUrl": "",
+    "originalPath": "wp-content/themes/immigway/style.css?ver=1.0.0.css",
+    "sourceRef": "wp-content/themes/immigway/style.css%3Fver=1.0.0.css",
+    "newPath": "/assets/academy/styles/style-css-3fver-1-0-0-2.css",
+    "section": "styles",
+    "type": "style",
+    "notes": ""
+  },
+  {
+    "sourceUrl": "",
+    "originalPath": "wp-content/themes/immigway/assets/css/style.css?ver=1.0.0.css",
+    "sourceRef": "wp-content/themes/immigway/assets/css/style.css%3Fver=1.0.0.css",
+    "newPath": "/assets/academy/styles/style-css-3fver-1-0-0.css",
+    "section": "styles",
+    "type": "style",
+    "notes": ""
+  },
+  {
+    "sourceUrl": "",
+    "originalPath": "wp-content/plugins/cf7-conditional-fields/style.css?ver=2.6.3.css",
+    "sourceRef": "wp-content/plugins/cf7-conditional-fields/style.css%3Fver=2.6.3.css",
+    "newPath": "/assets/academy/styles/style-css-3fver-2-6-3.css",
+    "section": "styles",
+    "type": "style",
+    "notes": ""
+  },
+  {
+    "sourceUrl": "",
+    "originalPath": "wp-content/plugins/metform/public/assets/lib/cute-alert/style.css?ver=4.0.4.css",
+    "sourceRef": "wp-content/plugins/metform/public/assets/lib/cute-alert/style.css%3Fver=4.0.4.css",
+    "newPath": "/assets/academy/styles/style-css-3fver-4-0-4.css",
+    "section": "styles",
+    "type": "style",
+    "notes": ""
+  },
+  {
+    "sourceUrl": "",
+    "originalPath": "wp-content/themes/immigway/style.css?ver=6.8.3.css",
+    "sourceRef": "wp-content/themes/immigway/style.css%3Fver=6.8.3.css",
+    "newPath": "/assets/academy/styles/style-css-3fver-6-8-3.css",
+    "section": "styles",
+    "type": "style",
+    "notes": ""
+  },
+  {
+    "sourceUrl": "",
+    "originalPath": "wp-content/plugins/newsletter/style.css?ver=9.1.1.css",
+    "sourceRef": "wp-content/plugins/newsletter/style.css%3Fver=9.1.1.css",
+    "newPath": "/assets/academy/styles/style-css-3fver-9-1-1.css",
+    "section": "styles",
+    "type": "style",
+    "notes": ""
+  },
+  {
+    "sourceUrl": "",
+    "originalPath": "wp-content/plugins/contact-form-7/includes/css/styles.css?ver=6.1.1.css",
+    "sourceRef": "wp-content/plugins/contact-form-7/includes/css/styles.css%3Fver=6.1.1.css",
+    "newPath": "/assets/academy/styles/styles-css-3fver-6-1-1.css",
+    "section": "styles",
+    "type": "style",
+    "notes": ""
+  },
+  {
+    "sourceUrl": "",
+    "originalPath": "wp-content/plugins/shopengine/modules/swatches/loop-product-support/assets/swatches.css?ver=1773222966.css",
+    "sourceRef": "wp-content/plugins/shopengine/modules/swatches/loop-product-support/assets/swatches.css%3Fver=1773222966.css",
+    "newPath": "/assets/academy/styles/swatches-css-3fver-1773222966.css",
+    "section": "styles",
+    "type": "style",
+    "notes": ""
+  },
+  {
+    "sourceUrl": "",
+    "originalPath": "wp-content/plugins/elementor/assets/lib/swiper/v8/css/swiper.min.css?ver=8.4.5.css",
+    "sourceRef": "wp-content/plugins/elementor/assets/lib/swiper/v8/css/swiper.min.css%3Fver=8.4.5.css",
+    "newPath": "/assets/academy/styles/swiper-min-css-3fver-8-4-5.css",
+    "section": "styles",
+    "type": "style",
+    "notes": ""
+  },
+  {
+    "sourceUrl": "",
+    "originalPath": "wp-content/plugins/metform/public/assets/css/text-editor.css?ver=4.0.4.css",
+    "sourceRef": "wp-content/plugins/metform/public/assets/css/text-editor.css%3Fver=4.0.4.css",
+    "newPath": "/assets/academy/styles/text-editor-css-3fver-4-0-4.css",
+    "section": "styles",
+    "type": "style",
+    "notes": ""
+  },
+  {
+    "sourceUrl": "",
+    "originalPath": "wp-content/plugins/booked/assets/js/tooltipster/css/tooltipster.css?ver=3.3.0.css",
+    "sourceRef": "wp-content/plugins/booked/assets/js/tooltipster/css/tooltipster.css%3Fver=3.3.0.css",
+    "newPath": "/assets/academy/styles/tooltipster-css-3fver-3-3-0.css",
+    "section": "styles",
+    "type": "style",
+    "notes": ""
+  },
+  {
+    "sourceUrl": "",
+    "originalPath": "wp-content/plugins/booked/assets/js/tooltipster/css/themes/tooltipster-light.css?ver=3.3.0.css",
+    "sourceRef": "wp-content/plugins/booked/assets/js/tooltipster/css/themes/tooltipster-light.css%3Fver=3.3.0.css",
+    "newPath": "/assets/academy/styles/tooltipster-light-css-3fver-3-3-0.css",
+    "section": "styles",
+    "type": "style",
+    "notes": ""
+  },
+  {
+    "sourceUrl": "",
+    "originalPath": "wp-content/plugins/elementor/assets/lib/font-awesome/css/v4-shims.min.css?ver=6.5.4.css",
+    "sourceRef": "wp-content/plugins/elementor/assets/lib/font-awesome/css/v4-shims.min.css%3Fver=6.5.4.css",
+    "newPath": "/assets/academy/styles/v4-shims-min-css-3fver-6-5-4.css",
+    "section": "styles",
+    "type": "style",
+    "notes": ""
+  },
+  {
+    "sourceUrl": "https://use.fontawesome.com/releases/v6.7.2/css/v4-shims.css",
+    "originalPath": "",
+    "sourceRef": "https://use.fontawesome.com/releases/v6.7.2/css/v4-shims.css",
+    "newPath": "/assets/academy/styles/v4-shims.css",
+    "section": "styles",
+    "type": "style",
+    "notes": ""
+  },
+  {
+    "sourceUrl": "",
+    "originalPath": "wp-content/plugins/woocommerce/assets/client/blocks/wc-blocks.css?ver=wc-10.4.3.css",
+    "sourceRef": "wp-content/plugins/woocommerce/assets/client/blocks/wc-blocks.css%3Fver=wc-10.4.3.css",
+    "newPath": "/assets/academy/styles/wc-blocks-css-3fver-wc-10-4-3.css",
+    "section": "styles",
+    "type": "style",
+    "notes": ""
+  },
+  {
+    "sourceUrl": "",
+    "originalPath": "wp-content/plugins/elementor-pro/assets/css/widget-form.min.css?ver=3.25.2.css",
+    "sourceRef": "wp-content/plugins/elementor-pro/assets/css/widget-form.min.css%3Fver=3.25.2.css",
+    "newPath": "/assets/academy/styles/widget-form-min-css-3fver-3-25-2.css",
+    "section": "styles",
+    "type": "style",
+    "notes": ""
+  },
+  {
+    "sourceUrl": "",
+    "originalPath": "wp-content/plugins/shopengine/widgets/init/assets/css/widget-frontend.css?ver=4.8.7.css",
+    "sourceRef": "wp-content/plugins/shopengine/widgets/init/assets/css/widget-frontend.css%3Fver=4.8.7.css",
+    "newPath": "/assets/academy/styles/widget-frontend-css-3fver-4-8-7.css",
+    "section": "styles",
+    "type": "style",
+    "notes": ""
+  },
+  {
+    "sourceUrl": "",
+    "originalPath": "wp-content/plugins/elementor/assets/css/widget-image-carousel.min.css?ver=3.33.4.css",
+    "sourceRef": "wp-content/plugins/elementor/assets/css/widget-image-carousel.min.css%3Fver=3.33.4.css",
+    "newPath": "/assets/academy/styles/widget-image-carousel-min-css-3fver-3-33-4.css",
+    "section": "styles",
+    "type": "style",
+    "notes": ""
+  },
+  {
+    "sourceUrl": "",
+    "originalPath": "wp-content/plugins/elementor/assets/css/widget-image.min.css?ver=3.33.4.css",
+    "sourceRef": "wp-content/plugins/elementor/assets/css/widget-image.min.css%3Fver=3.33.4.css",
+    "newPath": "/assets/academy/styles/widget-image-min-css-3fver-3-33-4.css",
+    "section": "styles",
+    "type": "style",
+    "notes": ""
+  },
+  {
+    "sourceUrl": "",
+    "originalPath": "wp-content/plugins/elementskit-lite/widgets/init/assets/css/widget-styles.css?ver=3.6.1.css",
+    "sourceRef": "wp-content/plugins/elementskit-lite/widgets/init/assets/css/widget-styles.css%3Fver=3.6.1.css",
+    "newPath": "/assets/academy/styles/widget-styles-css-3fver-3-6-1.css",
+    "section": "styles",
+    "type": "style",
+    "notes": ""
+  },
+  {
+    "sourceUrl": "",
+    "originalPath": "wp-content/plugins/shopengine/modules/wishlist/assets/css/wishlist.css?ver=4.8.7.css",
+    "sourceRef": "wp-content/plugins/shopengine/modules/wishlist/assets/css/wishlist.css%3Fver=4.8.7.css",
+    "newPath": "/assets/academy/styles/wishlist-css-3fver-4-8-7.css",
+    "section": "styles",
+    "type": "style",
+    "notes": ""
+  },
+  {
+    "sourceUrl": "",
+    "originalPath": "wp-content/plugins/woocommerce/assets/css/woocommerce.css?ver=10.4.3.css",
+    "sourceRef": "wp-content/plugins/woocommerce/assets/css/woocommerce.css%3Fver=10.4.3.css",
+    "newPath": "/assets/academy/styles/woocommerce-css-3fver-10-4-3.css",
+    "section": "styles",
+    "type": "style",
+    "notes": ""
+  },
+  {
+    "sourceUrl": "",
+    "originalPath": "wp-content/plugins/woocommerce/assets/css/woocommerce-layout.css?ver=10.4.3.css",
+    "sourceRef": "wp-content/plugins/woocommerce/assets/css/woocommerce-layout.css%3Fver=10.4.3.css",
+    "newPath": "/assets/academy/styles/woocommerce-layout-css-3fver-10-4-3.css",
+    "section": "styles",
+    "type": "style",
+    "notes": ""
+  },
+  {
+    "sourceUrl": "",
+    "originalPath": "wp-content/plugins/woocommerce/assets/css/woocommerce-smallscreen.css?ver=10.4.3.css",
+    "sourceRef": "wp-content/plugins/woocommerce/assets/css/woocommerce-smallscreen.css%3Fver=10.4.3.css",
+    "newPath": "/assets/academy/styles/woocommerce-smallscreen-css-3fver-10-4-3.css",
+    "section": "styles",
+    "type": "style",
+    "notes": ""
+  }
+]

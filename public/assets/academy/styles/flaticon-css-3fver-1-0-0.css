@@ -1,0 +1,205 @@
+@font-face {
+    font-family: "flaticon_immigway";
+    src: url("../fonts/flaticon_immigway.eot");
+    src: url("../fonts/flaticon_immigway.eot%3F") format("embedded-opentype"),
+       url("../fonts/flaticon_immigway.woff2") format("woff2"),
+       url("../fonts/flaticon_immigway.woff") format("woff"),
+       url("../fonts/flaticon_immigway.ttf") format("truetype"),
+       url("../fonts/flaticon_immigway.svg") format("svg");
+    font-weight: normal;
+    font-style: normal;
+}
+
+i[class^="flaticon-"], i[class*=" flaticon-"]{
+    line-height: 0;
+    font-weight: normal;
+}
+
+i[class^="flaticon-"]:before, i[class*=" flaticon-"]:before {
+    font-family: flaticon_immigway !important;
+    font-style: normal;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+
+.flaticon-plane:before {
+    content: "\f101";
+}
+.flaticon-shining:before {
+    content: "\f102";
+}
+.flaticon-star-2:before {
+    content: "\f103";
+}
+.flaticon-call:before {
+    content: "\f104";
+}
+.flaticon-residential:before {
+    content: "\f105";
+}
+.flaticon-youtube:before {
+    content: "\f106";
+}
+.flaticon-tik-tok:before {
+    content: "\f107";
+}
+.flaticon-family:before {
+    content: "\f108";
+}
+.flaticon-black-circle:before {
+    content: "\f109";
+}
+.flaticon-online-learning:before {
+    content: "\f10a";
+}
+.flaticon-distance-education:before {
+    content: "\f10b";
+}
+.flaticon-credit-card-1:before {
+    content: "\f10c";
+}
+.flaticon-support:before {
+    content: "\f10d";
+}
+.flaticon-tour-guide:before {
+    content: "\f10e";
+}
+.flaticon-magnifying-glass:before {
+    content: "\f10f";
+}
+.flaticon-personal-branding:before {
+    content: "\f110";
+}
+.flaticon-email:before {
+    content: "\f111";
+}
+.flaticon-email-1:before {
+    content: "\f112";
+}
+.flaticon-pin:before {
+    content: "\f113";
+}
+.flaticon-chat:before {
+    content: "\f114";
+}
+.flaticon-search:before {
+    content: "\f115";
+}
+.flaticon-send:before {
+    content: "\f116";
+}
+.flaticon-paper-plane:before {
+    content: "\f117";
+}
+.flaticon-send-1:before {
+    content: "\f118";
+}
+.flaticon-paper-plane-1:before {
+    content: "\f119";
+}
+.flaticon-credit-card:before {
+    content: "\f11a";
+}
+.flaticon-approved:before {
+    content: "\f11b";
+}
+.flaticon-student:before {
+    content: "\f11c";
+}
+.flaticon-graduation-cap:before {
+    content: "\f11d";
+}
+.flaticon-bachelors-degree:before {
+    content: "\f11e";
+}
+.flaticon-bank-card:before {
+    content: "\f11f";
+}
+.flaticon-document:before {
+    content: "\f120";
+}
+.flaticon-check-mark:before {
+    content: "\f121";
+}
+.flaticon-heart:before {
+    content: "\f122";
+}
+.flaticon-offline:before {
+    content: "\f123";
+}
+.flaticon-airplane:before {
+    content: "\f124";
+}
+.flaticon-global-economy:before {
+    content: "\f125";
+}
+.flaticon-agreement:before {
+    content: "\f126";
+}
+.flaticon-deadline:before {
+    content: "\f127";
+}
+.flaticon-technical-support:before {
+    content: "\f128";
+}
+.flaticon-right-arrow:before {
+    content: "\f129";
+}
+.flaticon-right-arrow-1:before {
+    content: "\f12a";
+}
+.flaticon-plus:before {
+    content: "\f12b";
+}
+.flaticon-minus:before {
+    content: "\f12c";
+}
+.flaticon-right-arrow-2:before {
+    content: "\f12d";
+}
+.flaticon-star:before {
+    content: "\f12e";
+}
+.flaticon-star-1:before {
+    content: "\f12f";
+}
+.flaticon-profit:before {
+    content: "\f130";
+}
+.flaticon-download-pdf:before {
+    content: "\f131";
+}
+.flaticon-user:before {
+    content: "\f132";
+}
+.flaticon-play:before {
+    content: "\f133";
+}
+.flaticon-visa:before {
+    content: "\f134";
+}
+.flaticon-passport:before {
+    content: "\f135";
+}
+.flaticon-timeline:before {
+    content: "\f136";
+}
+.flaticon-telephone-call:before {
+    content: "\f137";
+}
+.flaticon-love:before {
+    content: "\f138";
+}
+.flaticon-bar-chart:before {
+    content: "\f139";
+}
+.flaticon-chat-1:before {
+    content: "\f13a";
+}
+.flaticon-mail:before {
+    content: "\f13b";
+}

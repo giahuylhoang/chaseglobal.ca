@@ -1,0 +1,16 @@
+export { default as AcademyHeadAssets } from "./AcademyHeadAssets";
+export { default as AcademyHeaderNavigation } from "./AcademyHeaderNavigation";
+export { default as AcademyHeroSlider } from "./AcademyHeroSlider";
+export { default as AcademyCountryDestinations } from "./AcademyCountryDestinations";
+export { default as AcademyPartnersLogoStrip } from "./AcademyPartnersLogoStrip";
+export { default as AcademyCertificationsTrust } from "./AcademyCertificationsTrust";
+export { default as AcademyIndustryRecognition } from "./AcademyIndustryRecognition";
+export { default as AcademyInstitutionPartners } from "./AcademyInstitutionPartners";
+export { default as AcademyFeaturesValueBlocks } from "./AcademyFeaturesValueBlocks";
+export { default as AcademyServices } from "./AcademyServices";
+export { default as AcademyAboutChaseGlobal } from "./AcademyAboutChaseGlobal";
+export { default as AcademyWhyChooseUsTestimonial } from "./AcademyWhyChooseUsTestimonial";
+export { default as AcademyBookingSection } from "./AcademyBookingSection";
+export { default as AcademyFaqSection } from "./AcademyFaqSection";
+export { default as AcademyFaqBooking } from "./AcademyFaqBooking";
+export { default as AcademyFooterContact } from "./AcademyFooterContact";
